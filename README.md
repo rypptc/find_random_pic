@@ -1,0 +1,1 @@
+A program to search randomly for photos on your computer. 
